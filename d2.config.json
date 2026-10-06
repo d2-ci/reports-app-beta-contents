@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "viteConfigExtensions": "./viteConfigExtensions.mts",
+  "name": "reports-app-beta-contents",
+  "version": "1.0.0",
+  "description": "",
+  "title": "reports-app-beta-contents",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
